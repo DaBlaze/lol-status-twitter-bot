@@ -1,0 +1,2 @@
+aiohttp==3.8.3
+tweepy==4.12.1
